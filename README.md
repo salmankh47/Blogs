@@ -3,3 +3,4 @@
 2. http://bamos.github.io/
 3. http://inference.vc/
 4. http://ruishu.io/
+5. https://deeplearning.mit.edu/
