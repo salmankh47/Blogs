@@ -4,3 +4,4 @@
 3. http://inference.vc/
 4. http://ruishu.io/
 5. https://deeplearning.mit.edu/
+6. https://www.jeremyjordan.me/
