@@ -6,3 +6,13 @@
 5. https://deeplearning.mit.edu/
 6. https://www.jeremyjordan.me/
 7. https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c
+
+
+# Youtube Channels
+1.  Scalable Machine Learning (CS281B) - Alex Smola
+    https://www.youtube.com/playlist?list=PLOxR6w3fIHWzljtDh7jKSx_cuSxEOCayP
+    
+2.  CMU Deep Learning
+    https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA
+    https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa
+    
