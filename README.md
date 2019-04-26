@@ -6,6 +6,7 @@
 5. https://deeplearning.mit.edu/
 6. https://www.jeremyjordan.me/
 7. https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c
+8. https://dmitryulyanov.github.io/deep_image_prior         : *Deep Image Priors. Random NN. Works for everything*
 
 
 # Youtube Channels
