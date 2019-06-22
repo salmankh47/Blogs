@@ -17,6 +17,6 @@
     https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA <br>
     https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa
     
-3.  Berkley, Unsupervised Deep Learning
+3.  Berkley, Unsupervised Deep Learning <br>
     https://sites.google.com/view/berkeley-cs294-158-sp19/home
     
