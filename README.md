@@ -8,6 +8,7 @@
 7. https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c
 8. https://dmitryulyanov.github.io/deep_image_prior         : *Deep Image Priors. Random NN. Works for everything*
 9. https://hollobit.github.io/All-About-the-GAN/
+10. https://github.com/pliang279/multimodal-ml-reading-list : Multi-model ML
 
 # Youtube Channels
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
