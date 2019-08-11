@@ -9,6 +9,7 @@
 8. https://dmitryulyanov.github.io/deep_image_prior         : *Deep Image Priors. Random NN. Works for everything*
 9. https://hollobit.github.io/All-About-the-GAN/
 10. https://github.com/pliang279/multimodal-ml-reading-list : Multi-model ML
+11. https://github.com/nashory/gans-awesome-applications : Awesome GAN
 
 # Youtube Channels
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
