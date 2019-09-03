@@ -10,6 +10,7 @@
 9. https://hollobit.github.io/All-About-the-GAN/
 10. https://github.com/pliang279/multimodal-ml-reading-list : Multi-model ML
 11. https://github.com/nashory/gans-awesome-applications : Awesome GAN
+12. https://sauln.github.io/blog/tda_explanations/      :   Topology and Machine Learning
 
 # Youtube Channels
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
