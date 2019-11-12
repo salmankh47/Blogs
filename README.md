@@ -11,8 +11,13 @@
 10. https://github.com/pliang279/multimodal-ml-reading-list : Multi-model ML
 11. https://github.com/nashory/gans-awesome-applications : Awesome GAN
 12. https://sauln.github.io/blog/tda_explanations/      :   Topology and Machine Learning
+13. https://github.com/yenchenlin/awesome-adversarial-machine-learning : curated list of adversarial learning papers
+14. https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap : Roadmap for DL papers
+15. https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html : Course page of Differentiable Inference and Generative Models
 
+Training a GAN
 # Youtube Channels
+
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
     https://www.youtube.com/playlist?list=PLOxR6w3fIHWzljtDh7jKSx_cuSxEOCayP
     
@@ -22,4 +27,7 @@
     
 3.  Berkley, Unsupervised Deep Learning <br>
     https://sites.google.com/view/berkeley-cs294-158-sp19/home
+    
+4.  University of Utah, Machine learning and Deeplearning course
+    https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ
     
