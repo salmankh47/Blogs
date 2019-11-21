@@ -31,3 +31,5 @@ Training a GAN
 4.  University of Utah, Machine learning and Deeplearning course
     https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ
     
+5. Stanford CS230
+   https://cs230.stanford.edu/lecture/
