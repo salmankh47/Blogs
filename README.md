@@ -14,6 +14,7 @@
 13. https://github.com/yenchenlin/awesome-adversarial-machine-learning : curated list of adversarial learning papers
 14. https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap : Roadmap for DL papers
 15. https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html : Course page of Differentiable Inference and Generative Models
+16. https://www.themtank.org/a-year-in-computer-vision
 
 Training a GAN
 # Youtube Channels
