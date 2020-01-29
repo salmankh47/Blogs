@@ -34,3 +34,6 @@ Training a GAN
     
 5. Stanford CS230
    https://cs230.stanford.edu/lecture/
+
+6. Anima Ananda Kumar Foundation of ML. Stat inference
+   https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg
