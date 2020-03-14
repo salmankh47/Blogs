@@ -38,5 +38,13 @@ Training a GAN
 6. Anima Ananda Kumar Foundation of ML. Stat inference
    https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg
    
+### Fantastic lecture channel
+**AI Pursuit**
+    * https://www.youtube.com/user/SimonsInstitute/playlists
+
+**ML Papers explained**
+    * https://www.youtube.com/user/amirfzpr/playlists
+
+
 # Books
 **Optimization For Machine Learning**, Suvrit Sra, Sebastin Nowozin, Stephen J. Wright
