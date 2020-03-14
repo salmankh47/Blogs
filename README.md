@@ -39,12 +39,14 @@ Training a GAN
    https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg
    
 ### Fantastic lecture channel
-**AI Pursuit**
+**Simons Institute**<br>
     * https://www.youtube.com/user/SimonsInstitute/playlists
 
-**ML Papers explained**
+**ML Papers explained**<br>
     * https://www.youtube.com/user/amirfzpr/playlists
 
+**AI Pursuit**<br>
+    * https://www.youtube.com/channel/UCe_QLqna7cFtTCfZ0a8pycg/playlists
 
 # Books
 **Optimization For Machine Learning**, Suvrit Sra, Sebastin Nowozin, Stephen J. Wright
