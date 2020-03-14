@@ -32,16 +32,16 @@ Training a GAN
 4.  University of Utah, Machine learning and Deeplearning course
     https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ
     
-5. Stanford CS230
+5. Stanford CS230 <br>
    https://cs230.stanford.edu/lecture/
 
-6. Anima Ananda Kumar Foundation of ML. Stat inference
+6. Anima Ananda Kumar Foundation of ML. Stat inference <br>
    https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg
    
-7. Representation learning by Simons Institute
+7. Representation learning by Simons Institute <br>
    https://www.youtube.com/watch?v=ACdjYP0-cMw&list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz
    
-8. Bayesian lecture series, DeepBayes, Variational inference etc
+8. Bayesian lecture series, DeepBayes, Variational inference etc <br>
    https://www.youtube.com/channel/UC9KcwaZ9gSvcYNs7Jx3oNaQ
    
 ### Fantastic lecture channel
