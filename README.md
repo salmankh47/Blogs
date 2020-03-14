@@ -38,6 +38,12 @@ Training a GAN
 6. Anima Ananda Kumar Foundation of ML. Stat inference
    https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg
    
+7. Representation learning by Simons Institute
+   https://www.youtube.com/watch?v=ACdjYP0-cMw&list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz
+   
+8. Bayesian lecture series, DeepBayes, Variational inference etc
+   https://www.youtube.com/channel/UC9KcwaZ9gSvcYNs7Jx3oNaQ
+   
 ### Fantastic lecture channel
 **Simons Institute**<br>
     * https://www.youtube.com/user/SimonsInstitute/playlists
