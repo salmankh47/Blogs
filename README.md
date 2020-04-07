@@ -17,7 +17,21 @@
 16. https://www.themtank.org/a-year-in-computer-vision
 17. https://fabiandablander.com/    :-   **Causal Inference and variational bais**
 
-Training a GAN
+
+# Statistics
+-------------
+1.  (easy) Student guide to Bayesian Statistics for ML : https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG
+
+2.  Bayesian Stat, Virgina Tech : https://www.youtube.com/playlist?list=PLLG1JiumJDku-znWg0WYRfTr9gF2HsNkl
+
+3.  Intro Bayesian Stat : https://www.youtube.com/playlist?list=PLuRpZIQQRQedb2GM2WhKSEzojGN-BIIR9
+
+4.  Stat and Application MIT : https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm
+
+5.  Deep Bayes : https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW
+
+6.  Stat Harvard (going on) : https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
 # Youtube Channels
 
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
