@@ -1,3 +1,7 @@
+# Website
+A compiled list of free video-lecutres
+1. https://www.marktechpost.com/free-ai-ml-deep-learning-video-lectures/
+
 # Blogs
 1.  https://jacobbuckman.com/#about
 2. http://bamos.github.io/
