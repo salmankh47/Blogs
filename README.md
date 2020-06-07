@@ -68,6 +68,9 @@ A compiled list of free video-lecutres
 8. Bayesian lecture series, DeepBayes, Variational inference etc <br>
    https://www.youtube.com/channel/UC9KcwaZ9gSvcYNs7Jx3oNaQ
    
+9. Deep mind Deeplearning lecture <br>
+   https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
+   
 ### Fantastic lecture channel
 **Simons Institute**<br>
     * https://www.youtube.com/user/SimonsInstitute/playlists
