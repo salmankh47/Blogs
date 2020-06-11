@@ -68,7 +68,7 @@ A compiled list of free video-lecutres
     
 8. Stanford CS234 (Reinforcement learning) <br>
    https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
-  
+    
 
 9. Anima Ananda Kumar Foundation of ML. Stat inference <br>
    https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg
@@ -81,6 +81,9 @@ A compiled list of free video-lecutres
    
 12. Deep mind Deeplearning lecture <br>
    https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
+   
+13. Deep learning MIT 6S191 <br>
+    https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
    
 ### Fantastic lecture channel
 **Simons Institute**<br>
