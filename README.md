@@ -56,19 +56,30 @@ A compiled list of free video-lecutres
 4.  University of Utah, Machine learning and Deeplearning course
     https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ
     
-5. Stanford CS230 <br>
+5. Stanford CS230 (Deep learning) <br>
    https://cs230.stanford.edu/lecture/
+   
+6. Stanford CS231n (Conv Neural Network) <br>
+   https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC (Winter 2016) <br>
+   https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk (2017)
+  
+7. Stanford CS224n (NLP) <br>
+   https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z 
+    
+8. Stanford CS234 (Reinforcement learning) <br>
+   https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+  
 
-6. Anima Ananda Kumar Foundation of ML. Stat inference <br>
+9. Anima Ananda Kumar Foundation of ML. Stat inference <br>
    https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg
    
-7. Representation learning by Simons Institute <br>
+10. Representation learning by Simons Institute <br>
    https://www.youtube.com/watch?v=ACdjYP0-cMw&list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz
    
-8. Bayesian lecture series, DeepBayes, Variational inference etc <br>
+11. Bayesian lecture series, DeepBayes, Variational inference etc <br>
    https://www.youtube.com/channel/UC9KcwaZ9gSvcYNs7Jx3oNaQ
    
-9. Deep mind Deeplearning lecture <br>
+12. Deep mind Deeplearning lecture <br>
    https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
    
 ### Fantastic lecture channel
