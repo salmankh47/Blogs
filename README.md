@@ -82,7 +82,7 @@ A compiled list of free video-lecutres
 12. Deep mind Deeplearning lecture <br>
    https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
    
-13. Deep learning MIT 6S191 <br>
+13. Deep learning MIT 6.S191 <br>
     https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
    
 ### Fantastic lecture channel
