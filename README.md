@@ -98,6 +98,9 @@ A compiled list of free video-lecutres
 **AI Pursuit**<br>
     * https://www.youtube.com/channel/UCe_QLqna7cFtTCfZ0a8pycg/playlists
 
+**AI Socratic circle** <br>
+    * https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg
+
 # Books
 **Optimization For Machine Learning**, Suvrit Sra, Sebastin Nowozin, Stephen J. Wright <br>
 **Bayesian stat** https://github.com/fdabl/Intro-Stats
