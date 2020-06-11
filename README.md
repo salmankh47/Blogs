@@ -84,6 +84,9 @@ A compiled list of free video-lecutres
    
 13. Deep learning MIT 6.S191 <br>
     https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+    
+14. Machine learning CMU (Alex Smola) <br>
+    https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn
    
 ### Fantastic lecture channel
 **Simons Institute**<br>
