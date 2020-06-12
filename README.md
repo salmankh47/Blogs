@@ -2,6 +2,12 @@
 A compiled list of free video-lecutres
 1. https://www.marktechpost.com/free-ai-ml-deep-learning-video-lectures/
 
+2. MIT brain and computing lab <br>
+   https://cbmm.mit.edu/knowledge-transfer/workshops-conferences-symposia/learning-disentangled-representations-perception
+   
+3. Blog on disentanglement <br>
+   http://jkimmel.net/disentangling_a_latent_space/
+
 # Blogs
 1.  https://jacobbuckman.com/#about
 2. http://bamos.github.io/
@@ -100,6 +106,9 @@ A compiled list of free video-lecutres
 
 **AI Socratic circle** <br>
     * https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg
+
+**Disentangled Representation**
+    * https://www.youtube.com/watch?v=XNGo9xqpgMo&list=PLnCYZ7raesezWmCO4WZ4zF5uMPB_QHQZ5 
 
 # Books
 **Optimization For Machine Learning**, Suvrit Sra, Sebastin Nowozin, Stephen J. Wright <br>
