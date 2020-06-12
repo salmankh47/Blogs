@@ -8,6 +8,10 @@ A compiled list of free video-lecutres
 3. Blog on disentanglement <br>
    http://jkimmel.net/disentangling_a_latent_space/
 
+**MUST READ**
+A Commentary on the Unsupervised Learning of Disentangled Representations. Yet to be published in AAAI 2020 <br>
+https://research.google/pubs/pub48962/
+
 # Blogs
 1.  https://jacobbuckman.com/#about
 2. http://bamos.github.io/
