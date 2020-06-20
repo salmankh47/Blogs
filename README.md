@@ -116,4 +116,5 @@ https://research.google/pubs/pub48962/
 
 # Books
 **Optimization For Machine Learning**, Suvrit Sra, Sebastin Nowozin, Stephen J. Wright <br>
-**Bayesian stat** https://github.com/fdabl/Intro-Stats
+**Bayesian stat** https://github.com/fdabl/Intro-Stats <br>
+**Datamining DL/ML Book -  Harvard** : http://www.mmds.org/
