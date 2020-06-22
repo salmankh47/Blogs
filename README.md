@@ -31,6 +31,9 @@ https://research.google/pubs/pub48962/
 16. https://www.themtank.org/a-year-in-computer-vision
 17. https://fabiandablander.com/    :-   **Causal Inference and variational bais**
 
+# Online text
+1. neuralnetworksanddeeplearning.com/
+
 # NYU Machine learning/Deeplearning course
 1. Prob and Stat for Data science : https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html <br>
 2. Machine learning               : https://davidrosenberg.github.io/ml2017/#home <br>
