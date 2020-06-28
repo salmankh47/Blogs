@@ -40,6 +40,9 @@ https://research.google/pubs/pub48962/
 3. Deeplearning                   : https://atcold.github.io/pytorch-Deep-Learning/ <br>
 4. Inference and Representation   : https://inf16nyu.github.io/home/<br>
 
+# Learning from data
+Caltech : http://www.work.caltech.edu/telecourse.html
+
 # Statistics
 -------------
 1.  (easy) Student guide to Bayesian Statistics for ML : https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG
