@@ -1,5 +1,5 @@
 # Website
-*A compiled list of free video-lecutres*
+**A compiled list of free video-lecutres**
 1. https://www.marktechpost.com/free-ai-ml-deep-learning-video-lectures/
 
 2. MIT brain and computing lab <br>
@@ -8,7 +8,7 @@
 3. Blog on disentanglement <br>
    http://jkimmel.net/disentangling_a_latent_space/
 
-*Curated list, DL/ML/NLP/CV/RL*<br>
+**Curated list, DL/ML/NLP/CV/RL**<br>
 https://deep-learning-drizzle.github.io/index.html#bcss
 
 
