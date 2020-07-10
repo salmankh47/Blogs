@@ -107,6 +107,9 @@ Caltech : http://www.work.caltech.edu/telecourse.html
     
 14. Machine learning CMU (Alex Smola) <br>
     https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn
+    
+15. Linear Algebra for ml <br>
+    https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
    
 ### Fantastic lecture channel
 **Simons Institute**<br>
