@@ -41,8 +41,9 @@ https://research.google/pubs/pub48962/
 # NYU Machine learning/Deeplearning course
 1. Prob and Stat for Data science : https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html <br>
 2. Machine learning               : https://davidrosenberg.github.io/ml2017/#home <br>
+                                  : https://www.youtube.com/watch?v=U6M0m9c9_Js&list=PL9gLVsLmOO8oq4vB1BYxIsl6z6Zf71PC8 <br>
 3. Deeplearning                   : https://atcold.github.io/pytorch-Deep-Learning/ <br>
-                                  : https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+                                  : https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq <br>
 4. Inference and Representation   : https://inf16nyu.github.io/home/<br>
 
 # Learning from data
