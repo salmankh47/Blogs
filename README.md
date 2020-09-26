@@ -51,7 +51,7 @@ https://research.google/pubs/pub48962/
 http://www.work.caltech.edu/telecourse.html
 
 # University of sunny buffallo 
-### ML and DL 
+### ML and DL (simple and Concise)
 https://cedar.buffalo.edu/~srihari/CSE676/
 
 # Statistics
