@@ -112,6 +112,9 @@ Caltech : http://www.work.caltech.edu/telecourse.html
     
 15. Linear Algebra for ml <br>
     https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
+    
+16. Max Planck Institute of Intelligent Systems.
+    https://www.youtube.com/c/MaxPlanckInstituteforIntelligentSystems/playlists
    
 ### Fantastic lecture channel
 **Simons Institute**<br>
