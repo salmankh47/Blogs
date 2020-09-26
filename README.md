@@ -47,10 +47,12 @@ https://research.google/pubs/pub48962/
 4. Inference and Representation   : https://inf16nyu.github.io/home/<br>
 
 # Caltech
-# Learning from data <br> : http://www.work.caltech.edu/telecourse.html
+### Learning from data
+http://www.work.caltech.edu/telecourse.html
 
 # University of sunny buffallo 
-## ML and DL <br> : https://cedar.buffalo.edu/~srihari/CSE676/
+### ML and DL 
+https://cedar.buffalo.edu/~srihari/CSE676/
 
 # Statistics
 -------------
