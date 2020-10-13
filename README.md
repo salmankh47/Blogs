@@ -54,6 +54,10 @@ http://www.work.caltech.edu/telecourse.html
 ### ML and DL (simple and Concise)
 https://cedar.buffalo.edu/~srihari/CSE676/
 
+# University of Waterloo
+### ML + DL (Basic + Intro)
+https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k
+
 # Statistics
 -------------
 1.  (easy) Student guide to Bayesian Statistics for ML : https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG
