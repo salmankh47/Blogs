@@ -90,7 +90,8 @@ https://uni-tuebingen.de/en/180804
     
 2.  CMU Deep Learning <br>
     https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA <br>
-    https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa
+    https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa <br>
+    https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn
     
 3.  Berkley, Unsupervised Deep Learning <br>
     https://sites.google.com/view/berkeley-cs294-158-sp19/home
