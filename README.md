@@ -143,6 +143,9 @@ https://uni-tuebingen.de/en/180804
 **ML Papers explained**<br>
     * https://www.youtube.com/user/amirfzpr/playlists
 
+**DL Paper explained** <br>
+    * **Yannic Kilcher** : https://www.youtube.com/c/YannicKilcher/playlists
+
 **AI Pursuit**<br>
     * https://www.youtube.com/channel/UCe_QLqna7cFtTCfZ0a8pycg/playlists
 
