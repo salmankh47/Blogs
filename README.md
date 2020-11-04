@@ -137,6 +137,9 @@ https://uni-tuebingen.de/en/180804
     https://www.youtube.com/c/MaxPlanckInstituteforIntelligentSystems/playlists
    
 ### Fantastic lecture channel
+**London Machine Learning Meetup** <br>
+   * https://www.youtube.com/channel/UCpwC9QC0lWaEJ85MoMRFvrA/videos
+   
 **Simons Institute**<br>
     * https://www.youtube.com/user/SimonsInstitute/playlists
 
