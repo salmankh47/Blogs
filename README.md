@@ -54,6 +54,11 @@ http://www.work.caltech.edu/telecourse.html
 ### ML and DL (simple and Concise)
 https://cedar.buffalo.edu/~srihari/CSE676/
 
+# FAU Germany: Andreas Maier
+### PR and DL
+https://www.youtube.com/c/AndreasMaierTV/playlists
+
+
 # University of Waterloo
 ### ML + DL (Basic + Intro)
 https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k
