@@ -64,6 +64,8 @@ https://www.youtube.com/c/AndreasMaierTV/playlists
 https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k
 
 # University of Tuebingen
+### Playlist ML, DL, Stat learning
+https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA
 ### Probabilistic ML
 
 https://uni-tuebingen.de/en/180804
