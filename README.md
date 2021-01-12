@@ -33,7 +33,10 @@ https://research.google/pubs/pub48962/
 14. https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap : Roadmap for DL papers
 15. https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html : Course page of Differentiable Inference and Generative Models
 16. https://www.themtank.org/a-year-in-computer-vision
-17. https://fabiandablander.com/    :-   **Causal Inference and variational bais**
+17. https://colah.github.io/
+18. https://thegradient.pub/
+19. https://distill.pub/
+20. https://fabiandablander.com/    :-   **Causal Inference and variational bais**
 
 # Online text
 1. neuralnetworksanddeeplearning.com/
