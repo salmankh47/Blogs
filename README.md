@@ -88,6 +88,8 @@ https://uni-tuebingen.de/en/180804
 
 6.  Stat Harvard (going on) : https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+7.  NPTEL (IIT-Khag)(Very Nice): https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9
+
 # Youtube Channels
 
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
