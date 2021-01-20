@@ -90,6 +90,10 @@ https://uni-tuebingen.de/en/180804
 
 7.  NPTEL (IIT-Khag)(Very Nice): https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9
 
+# Graphical Model & DL
+## CMU
+1. https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html
+
 # Youtube Channels
 
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
