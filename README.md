@@ -54,6 +54,9 @@ https://research.google/pubs/pub48962/
 ### Representation learning in CV
 https://web.stanford.edu/class/cs331b/schedule.html
 
+### AI Lab Courses/Notes/Papers
+https://ai.stanford.edu/courses/
+
 
 # Caltech
 ### Learning from data
