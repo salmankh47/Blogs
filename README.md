@@ -50,6 +50,11 @@ https://research.google/pubs/pub48962/
                                   : https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq <br>
 4. Inference and Representation   : https://inf16nyu.github.io/home/<br>
 
+# Stanford
+### Representation learning in CV
+https://web.stanford.edu/class/cs331b/schedule.html
+
+
 # Caltech
 ### Learning from data
 http://www.work.caltech.edu/telecourse.html
