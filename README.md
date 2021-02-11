@@ -156,6 +156,9 @@ https://uni-tuebingen.de/en/180804
     
 16. Max Planck Institute of Intelligent Systems.
     https://www.youtube.com/c/MaxPlanckInstituteforIntelligentSystems/playlists
+    
+17. DeepMind: Unsupervised Representation Learning
+    https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos
    
 # Fantastic Misc Lecture channel
 **London Machine Learning Meetup** <br>
