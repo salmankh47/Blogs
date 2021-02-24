@@ -51,6 +51,8 @@ https://research.google/pubs/pub48962/
                                   : https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq <br>
 4. Inference and Representation   : https://inf16nyu.github.io/home/<br>
 
+5. Mathematics of ML              : https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9
+
 # Stanford
 ### Representation learning in CV
 https://web.stanford.edu/class/cs331b/schedule.html
