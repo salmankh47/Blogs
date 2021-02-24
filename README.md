@@ -38,6 +38,7 @@ https://research.google/pubs/pub48962/
 19. https://distill.pub/
 20. https://fabiandablander.com/    :-   **Causal Inference and variational bais**
 21. https://github.com/salmankh47/machine-learning-notes **CV ML Notes (Advanced Math)**
+22. https://jalammar.github.io/ :- **Visualization of sequence models, NLP, transformers**
 
 # Online text
 1. neuralnetworksanddeeplearning.com/
