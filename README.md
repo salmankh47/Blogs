@@ -102,6 +102,9 @@ https://uni-tuebingen.de/en/180804
 
 7.  NPTEL (IIT-Khag)(Very Nice): https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9
 
+# AUDIO
+   * **The Sound of AI:** https://www.youtube.com/c/ValerioVelardoTheSoundofAI/playlists
+
 # Graphical Model & DL
 ## CMU
 1. https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html
