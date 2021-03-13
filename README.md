@@ -165,6 +165,10 @@ https://uni-tuebingen.de/en/180804
     
 17. DeepMind: Unsupervised Representation Learning
     https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos
+    
+18. Data Science ML/DL, **Ali ghodsi** <br>
+    https://www.youtube.com/c/DataScienceCoursesUW/playlists
+   
    
 # Fantastic Misc Lecture channel
 **London Machine Learning Meetup** <br>
