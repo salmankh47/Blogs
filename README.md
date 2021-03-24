@@ -87,6 +87,11 @@ https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA
 
 https://uni-tuebingen.de/en/180804
 
+# Coursera course on Latent Variable Models
+https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
+
+# Udemy courses on Computer vision
+
 
 # Statistics
 -------------
