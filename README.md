@@ -199,6 +199,8 @@ https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
 
 **Disentangled Representation**
     * https://www.youtube.com/watch?v=XNGo9xqpgMo&list=PLnCYZ7raesezWmCO4WZ4zF5uMPB_QHQZ5 
+    * https://ustcnewly.github.io/2018/12/25/deep_learning/Disentangled%20Representation/
+    * https://towardsdatascience.com/disentangling-disentanglement-in-deep-learning-d405005c0741
 
 # Books
 **Optimization For Machine Learning**, Suvrit Sra, Sebastin Nowozin, Stephen J. Wright <br>
