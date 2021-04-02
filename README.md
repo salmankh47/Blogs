@@ -41,6 +41,7 @@ https://research.google/pubs/pub48962/
 22. https://jalammar.github.io/ :- **Visualization of sequence models, NLP, transformers**
 23. https://ermongroup.github.io/cs228-notes/ : **Blog on Graphical model, VAE, inference. Its nice, elegant with flow**
 24. https://wiseodd.github.io/ **generative models**
+25. https://www.groundai.com/ **domain specific papers**
 
 # Online text
 1. neuralnetworksanddeeplearning.com/
