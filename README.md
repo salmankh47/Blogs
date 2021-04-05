@@ -112,6 +112,7 @@ https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
 
 # AUDIO
    * **The Sound of AI:** https://www.youtube.com/c/ValerioVelardoTheSoundofAI/playlists
+   * **Audio signal processing:** https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
 
 # Graphical Model & DL
 ## CMU
