@@ -180,6 +180,9 @@ https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
    
    
 # Fantastic Misc Lecture channel
+**Jordan Boyd**
+   * https://www.youtube.com/c/JordanBoydGraber/playlists
+
 **London Machine Learning Meetup** <br>
    * https://www.youtube.com/channel/UCpwC9QC0lWaEJ85MoMRFvrA/videos
    
