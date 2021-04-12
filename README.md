@@ -63,6 +63,9 @@ https://web.stanford.edu/class/cs331b/schedule.html
 ### AI Lab Courses/Notes/Papers
 https://ai.stanford.edu/courses/
 
+### CS228 - Probabilistic Graphical Models
+https://cs228.stanford.edu/#other-resources
+
 
 # Caltech
 ### Learning from data
