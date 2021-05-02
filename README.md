@@ -180,6 +180,9 @@ https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
     
 18. Data Science ML/DL, **Ali ghodsi** <br>
     https://www.youtube.com/c/DataScienceCoursesUW/playlists
+    
+19. Basics of Information theory **must watch**
+    https://www.youtube.com/channel/UCciVrtrRR3bQdaGbti9-hVQ/videos
    
    
 # Fantastic Misc Lecture channel
