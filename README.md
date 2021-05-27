@@ -1,4 +1,7 @@
 # Website
+**A detailed description and coding samples for core and advanced concepts**
+1. https://d2l.ai/index.html
+
 **A compiled list of free video-lecutres**
 1. https://www.marktechpost.com/free-ai-ml-deep-learning-video-lectures/
 
