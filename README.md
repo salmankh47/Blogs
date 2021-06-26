@@ -45,6 +45,7 @@ https://research.google/pubs/pub48962/
 23. https://ermongroup.github.io/cs228-notes/ : **Blog on Graphical model, VAE, inference. Its nice, elegant with flow**
 24. https://wiseodd.github.io/ **generative models**
 25. https://www.groundai.com/ **domain specific papers**
+26. https://ml.berkeley.edu/blog/ **ML Berkley Blog**
 
 # Online text
 1. neuralnetworksanddeeplearning.com/
