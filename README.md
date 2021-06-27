@@ -100,6 +100,12 @@ https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
 
 # Udemy courses on Computer vision
 
+# University of Maryland
+## Foundations and Advanced DL
+https://www.cs.umd.edu/class/fall2020/cmsc828W/
+### Youtube link
+https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
+
 
 # Statistics
 -------------
@@ -187,6 +193,14 @@ https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
     
 19. Basics of Information theory **must watch**
     https://www.youtube.com/channel/UCciVrtrRR3bQdaGbti9-hVQ/videos
+    
+20. Jeremy Howard **Fast AI** (good for practical coding)
+    https://www.youtube.com/user/howardjeremyp/playlists
+    
+21. Full Stack Deep Learning **For end-to-end deployment and coding**
+    https://www.youtube.com/c/FullStackDeepLearning/playlists
+    
+22. 
    
    
 # Fantastic Misc Lecture channel
