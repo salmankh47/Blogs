@@ -48,6 +48,15 @@ https://research.google/pubs/pub48962/
 26. https://ml.berkeley.edu/blog/ **ML Berkley Blog**
 27. https://ml.berkeley.edu/blog/posts/vq-vae/ **VQ-VAE (DALL-E)**
 
+# Other Blogs to check
+1. Weights and Biases
+2. Hugging face
+3. Microsoft
+4. FB AI
+5. Google Brain
+6. Deep mind blog
+7. Open AI
+
 # Online text
 1. neuralnetworksanddeeplearning.com/
 
