@@ -46,6 +46,7 @@ https://research.google/pubs/pub48962/
 24. https://wiseodd.github.io/ **generative models**
 25. https://www.groundai.com/ **domain specific papers**
 26. https://ml.berkeley.edu/blog/ **ML Berkley Blog**
+27. https://ml.berkeley.edu/blog/posts/vq-vae/ **VQ-VAE (DALL-E)**
 
 # Online text
 1. neuralnetworksanddeeplearning.com/
