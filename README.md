@@ -210,7 +210,8 @@ https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
 21. Full Stack Deep Learning **For end-to-end deployment and coding**
     https://www.youtube.com/c/FullStackDeepLearning/playlists
     
-22. 
+22. University of Tubingen
+    https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA
    
    
 # Fantastic Misc Lecture channel
