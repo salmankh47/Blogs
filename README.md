@@ -47,6 +47,7 @@ https://research.google/pubs/pub48962/
 25. https://www.groundai.com/ **domain specific papers**
 26. https://ml.berkeley.edu/blog/ **ML Berkley Blog**
 27. https://ml.berkeley.edu/blog/posts/vq-vae/ **VQ-VAE (DALL-E)**
+28. https://karpathy.github.io/ **Andrej Karpathy**
 
 # Other Blogs to check
 1. Weights and Biases
