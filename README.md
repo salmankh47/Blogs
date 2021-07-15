@@ -228,6 +228,9 @@ https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
    * https://www.youtube.com/user/amirfzpr/playlists
 
 ## DL Paper explained <br>
+**The AI Epiphany** <br>
+    * https://www.youtube.com/c/TheAIEpiphany/playlists
+    
 **Yannic Kilcher** <br>
     * https://www.youtube.com/c/YannicKilcher/playlists
 
