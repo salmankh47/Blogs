@@ -217,6 +217,9 @@ https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
     
 22. University of Tubingen
     https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA
+    
+23. Soheil Feizi
+    https://www.youtube.com/user/soheilfeiz/videos
    
    
 # Fantastic Misc Lecture channel
