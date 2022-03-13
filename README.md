@@ -220,6 +220,9 @@ https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
     
 23. Soheil Feizi
     https://www.youtube.com/user/soheilfeiz/videos
+    
+24. Florian Marquard (ML and Physics)
+    https://www.youtube.com/watch?v=B2Jnurp-OkU&list=PLemsnf33Vij4-kv-JTjDthaGUYUnQbbws
    
    
 # Fantastic Misc Lecture channel
