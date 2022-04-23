@@ -229,6 +229,9 @@ http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
     
 24. Florian Marquard (ML and Physics)
     https://www.youtube.com/watch?v=B2Jnurp-OkU&list=PLemsnf33Vij4-kv-JTjDthaGUYUnQbbws
+    
+25. Information Theory, Advanced inference in Graphical models
+    https://www.youtube.com/channel/UCvPnLF7oUh4p-m575fZcUxg/videos
    
    
 # Fantastic Misc Lecture channel
