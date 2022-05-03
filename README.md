@@ -152,7 +152,7 @@ http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
 ## CMU
 1. https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html
 
-# Youtube Channels
+# Channels
 
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
     https://www.youtube.com/playlist?list=PLOxR6w3fIHWzljtDh7jKSx_cuSxEOCayP
@@ -232,6 +232,9 @@ http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
     
 25. Information Theory, Advanced inference in Graphical models
     https://www.youtube.com/channel/UCvPnLF7oUh4p-m575fZcUxg/videos
+    
+26. Maziar Raissi : Audio, Language, RL models
+    https://www.youtube.com/channel/UCxEiGqJ2e-Mg9oQMjVv6poQ/playlists
    
    
 # Fantastic Misc Lecture channel
