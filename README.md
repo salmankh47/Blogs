@@ -51,6 +51,7 @@ https://research.google/pubs/pub48962/
 29. /www.casualganpapers.com **papers explained**
 30. https://ai.stanford.edu/blog/ **Stanford AI Blog**
 31. https://cohere.ai/ (A Good company for NLP)
+32. https://bjlkeng.github.io/ **Author focuses on autoregressive and autoencoder based models**
 
 
 # Paper implimentation
