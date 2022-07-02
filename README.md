@@ -49,6 +49,10 @@ https://research.google/pubs/pub48962/
 27. https://ml.berkeley.edu/blog/posts/vq-vae/ **VQ-VAE (DALL-E)**
 28. https://karpathy.github.io/ **Andrej Karpathy**
 29. /www.casualganpapers.com **papers explained**
+30. https://ai.stanford.edu/blog/ **Stanford AI Blog**
+31. https://cohere.ai/ (A Good company for NLP)
+
+
 # Paper implimentation
 1. nn.labml.ai **Annotated paper implimentation**
 
@@ -61,6 +65,7 @@ https://research.google/pubs/pub48962/
 5. Google Brain
 6. Deep mind blog
 7. Open AI
+8. Stanford AI Blog
 
 # Online text
 1. neuralnetworksanddeeplearning.com/
