@@ -77,6 +77,7 @@ https://research.google/pubs/pub48962/
                                   : https://www.youtube.com/watch?v=U6M0m9c9_Js&list=PL9gLVsLmOO8oq4vB1BYxIsl6z6Zf71PC8 <br>
 3. Deeplearning                   : https://atcold.github.io/pytorch-Deep-Learning/ <br>
                                   : https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq <br>
+                                  : https://cds.nyu.edu/deep-learning/ **(Yann LeCun's Course, Priority 1)** <br>
 4. Inference and Representation   : https://inf16nyu.github.io/home/<br>
 
 5. Mathematics of ML              : https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9
