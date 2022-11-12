@@ -133,6 +133,13 @@ https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
 http://www.cs.cmu.edu/~tom/ <br>
 http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml <br> (Masters level)
 http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
+https://www.youtube.com/watch?v=U1xIBLLzP1g&list=PLzVF1nAqI9VmydeMepM2pJxf-TAIJv6p-
+
+# UC Berkley
+## DL
+https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW <br>
+
+## 
 
 
 # Statistics
@@ -159,6 +166,13 @@ http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
 ## CMU
 1. https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html
 
+# Optimization
+1. https://www.youtube.com/watch?v=9hToSoZXM9s&list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU
+
+# Math for ML and DL
+1.  https://www.youtube.com/watch?v=ssWr6Q0mGIA&list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA
+
+
 # Channels
 
 1.  Scalable Machine Learning (CS281B) - Alex Smola <br>
@@ -170,7 +184,9 @@ http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
     https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn
     
 3.  Berkley, Unsupervised Deep Learning <br>
-    https://sites.google.com/view/berkeley-cs294-158-sp19/home
+    https://sites.google.com/view/berkeley-cs294-158-sp19/home <br>
+    https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP <br>
+    https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW **DL**
     
 4.  University of Utah, Machine learning and Deeplearning course
     https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ
@@ -204,8 +220,9 @@ http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
 13. Deep learning MIT 6.S191 <br>
     https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
     
-14. Machine learning CMU (Alex Smola) <br>
-    https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn
+14. CMU (Alex Smola) <br>
+    https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn <br>
+    https://www.youtube.com/watch?v=U1xIBLLzP1g&list=PLzVF1nAqI9VmydeMepM2pJxf-TAIJv6p-
     
 15. Linear Algebra for ml <br>
     https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
@@ -242,7 +259,18 @@ http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
     
 26. Maziar Raissi : Audio, Language, RL models
     https://www.youtube.com/channel/UCxEiGqJ2e-Mg9oQMjVv6poQ/playlists
-   
+    
+27. Statistical Rethinking <br>
+    https://www.youtube.com/watch?v=oy7Ks3YfbDg&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc <br>
+    https://www.youtube.com/watch?v=6AWZS4Ho2Z8&list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O (MIT) <br> 
+
+28. Transformers United (Assorted)
+    https://www.youtube.com/watch?v=P127jhj-8-Y&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM <br>
+ 
+29. Ian GoodFellow, DL Book companion video
+    https://www.youtube.com/watch?v=vi7lACKOUao&list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b
+    
+    
    
 # Fantastic Misc Lecture channel
 **Jordan Boyd**
