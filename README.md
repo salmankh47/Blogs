@@ -101,6 +101,11 @@ http://www.work.caltech.edu/telecourse.html
 ### ML and DL (simple and Concise)
 https://cedar.buffalo.edu/~srihari/CSE676/
 
+# Cornel 
+### Machine learning for Intelligent Systems
+https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+
+
 # FAU Germany: Andreas Maier
 ### PR and DL
 https://www.youtube.com/c/AndreasMaierTV/playlists
