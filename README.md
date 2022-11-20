@@ -315,3 +315,6 @@ https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqh
 **Optimization For Machine Learning**, Suvrit Sra, Sebastin Nowozin, Stephen J. Wright <br>
 **Bayesian stat** https://github.com/fdabl/Intro-Stats <br>
 **Datamining DL/ML Book -  Harvard** : http://www.mmds.org/
+
+# LISP & Structure and interpretation of programs (Wizard book)
+* https://www.youtube.com/playlist?list=PLE18841CABEA24090
