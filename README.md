@@ -52,6 +52,9 @@ https://research.google/pubs/pub48962/
 30. https://ai.stanford.edu/blog/ **Stanford AI Blog**
 31. https://cohere.ai/ (A Good company for NLP)
 32. https://bjlkeng.github.io/ **Author focuses on autoregressive and autoencoder based models**
+33. uvadlc-notebooks.readthedocs.io/en/latest/index.html  **UvA Deep Learning Tutorials! CODE also**
+34. vaclavkosar.com **blog for disentangled representation also**
+    vaclavkosar.com/ml/manipulate-item-attributes-via-disentangled-representation
 
 
 # Paper implimentation
@@ -143,6 +146,12 @@ https://www.youtube.com/watch?v=U1xIBLLzP1g&list=PLzVF1nAqI9VmydeMepM2pJxf-TAIJv
 # UC Berkley
 ## DL
 https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW <br>
+
+# University of Amsterdam
+## DL with coding
+site  : uvaldc.github.io <br>
+code  : uvaldc-notebooks.readthedocs.io/en/latest/index.html
+
 
 ## 
 
