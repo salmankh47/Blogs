@@ -1,6 +1,10 @@
 # Website
 **A detailed description and coding samples for core and advanced concepts**
 1. https://d2l.ai/index.html
+2. Dive into Deep learning https://d2l.ai/
+3. uvadlc-notebooks.readthedocs.io/en/latest/index.html  **UvA Deep Learning Tutorials! CODE also**
+4. Full Stack deep learning youtube lecture
+5. CMU Deep learning recitation lectures.
 
 **A compiled list of free video-lecutres**
 1. https://www.marktechpost.com/free-ai-ml-deep-learning-video-lectures/
