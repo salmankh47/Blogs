@@ -59,6 +59,8 @@ https://research.google/pubs/pub48962/
 33. uvadlc-notebooks.readthedocs.io/en/latest/index.html  **UvA Deep Learning Tutorials! CODE also**
 34. vaclavkosar.com **blog for disentangled representation also**
     vaclavkosar.com/ml/manipulate-item-attributes-via-disentangled-representation
+35. Yordan Histrov: University of Edinburgh, https://yordanh.github.io/
+    works in disentangled representation
 
 
 # Paper implimentation
