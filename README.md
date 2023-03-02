@@ -60,11 +60,19 @@ https://research.google/pubs/pub48962/
 34. vaclavkosar.com **blog for disentangled representation also**
     vaclavkosar.com/ml/manipulate-item-attributes-via-disentangled-representation
 35. Yordan Histrov: University of Edinburgh, https://yordanh.github.io/
+    Vaclav Kosar's: https://vaclavkosar.com/ <br>
+                    https://vaclavkosar.com/ml/manipulate-item-attributes-via-disentangled-representation <br>
     works in disentangled representation
+36. Representation Learning : https://ift6135h18.wordpress.com/category/lectures/page/2/
 
 
 # Paper implimentation
 1. nn.labml.ai **Annotated paper implimentation**
+
+# Classical AI
+   * https://www.cse.wustl.edu/~garnett/cse511a/
+   * UC-Berkley: https://www.youtube.com/results?search_query=artificial+intelligence+uc+berkeley
+   * MIT : https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 
 
 # Other Blogs to check
@@ -100,6 +108,9 @@ https://ai.stanford.edu/courses/
 
 ### CS228 - Probabilistic Graphical Models
 https://cs228.stanford.edu/#other-resources
+
+### Speech and Language Processing
+https://web.stanford.edu/~jurafsky/slp3/
 
 
 # Caltech
@@ -149,13 +160,16 @@ http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml <br> (Masters level
 http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml (Ph.D level)
 https://www.youtube.com/watch?v=U1xIBLLzP1g&list=PLzVF1nAqI9VmydeMepM2pJxf-TAIJv6p-
 
+## Probabilistic Graphical models
+https://www.cs.cmu.edu/~epxing/Class/10708/lecture.html
+
 # UC Berkley
 ## DL
 https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW <br>
 
 # University of Amsterdam
 ## DL with coding
-site  : uvaldc.github.io <br>
+site  : uvadlc.github.io <br>
 code  : uvaldc-notebooks.readthedocs.io/en/latest/index.html
 
 
