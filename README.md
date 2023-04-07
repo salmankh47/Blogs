@@ -115,8 +115,8 @@ https://ai.stanford.edu/courses/
 ### CS228 - Probabilistic Graphical Models
 https://cs228.stanford.edu/#other-resources
 
-### Speech and Language Processing
-https://web.stanford.edu/~jurafsky/slp3/
+### ☑️ Speech and Language Processing ⚠️
+https://web.stanford.edu/~jurafsky/slp3/ (currently reading for NLP)
 
 
 # Caltech
