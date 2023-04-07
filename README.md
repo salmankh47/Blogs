@@ -1,4 +1,10 @@
 # Website
+### Awesome Curated List :name_badge:
+   :red_circle: https://aman.ai/
+   :red_circle: https://aman.ai/read/ (READING MATERIALS)
+   :red_circle: https://aman.ai/papers/ (PAPERS)
+   :red_circle: https://aman.ai/watch/ (Video Lectures)
+
 **A detailed description and coding samples for core and advanced concepts**
 1. https://d2l.ai/index.html
 2. Dive into Deep learning https://d2l.ai/
