@@ -169,7 +169,7 @@ https://www.youtube.com/watch?v=U1xIBLLzP1g&list=PLzVF1nAqI9VmydeMepM2pJxf-TAIJv
 ## Probabilistic Graphical models
 https://www.cs.cmu.edu/~epxing/Class/10708/lecture.html
 
-## Multi-modal ML :important:
+## Multi-modal ML :warning:
 https://www.youtube.com/playlist?list=PLki3HkfgNEsKPcpj5Vv2P98SRAT9wxIDa <br>
 https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc
 
