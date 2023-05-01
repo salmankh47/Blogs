@@ -4,7 +4,7 @@
    :red_circle: https://aman.ai/read/ (READING MATERIALS) <br>
    :red_circle: https://aman.ai/papers/ (PAPERS) <br>
    :red_circle: https://aman.ai/watch/ (Video Lectures)** <br>
-   :blue_circle: https://github.com/heejkoo/Awesome-Diffusion-Models
+   🔵 https://github.com/heejkoo/Awesome-Diffusion-Models
 
 **A detailed description and coding samples for core and advanced concepts**
 1. https://d2l.ai/index.html
