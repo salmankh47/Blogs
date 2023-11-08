@@ -224,6 +224,7 @@ code  : uvaldc-notebooks.readthedocs.io/en/latest/index.html
     https://www.youtube.com/playlist?list=PLOxR6w3fIHWzljtDh7jKSx_cuSxEOCayP
     
 2.  CMU Deep Learning <br>
+    https://deeplearning.cs.cmu.edu/F23/index.html (Course page)
     https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA <br>
     https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa <br>
     https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn
