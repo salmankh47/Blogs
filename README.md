@@ -161,6 +161,8 @@ https://www.cs.umd.edu/class/fall2020/cmsc828W/
 https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf
 
 # CMU
+## Deep learning course page
+https://deeplearning.cs.cmu.edu/F23/index.html  (S23/F22/S22 also available in link)
 ## Tom Mitchell - ML Course
 http://www.cs.cmu.edu/~tom/ <br>
 http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml <br> (Masters level)
