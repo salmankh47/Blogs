@@ -178,8 +178,10 @@ https://www.youtube.com/playlist?list=PLki3HkfgNEsKPcpj5Vv2P98SRAT9wxIDa <br>
 https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc
 
 # UC Berkley
-## DL
+## Deep Learning
 https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW <br>
+https://cs182sp21.github.io/ <be>
+https://inst.eecs.berkeley.edu/~cs182/sp23/
 
 # University of Amsterdam
 ## DL with coding
