@@ -71,6 +71,7 @@ https://research.google/pubs/pub48962/
                     https://vaclavkosar.com/ml/manipulate-item-attributes-via-disentangled-representation <br>
     works in disentangled representation
 36. Representation Learning : https://ift6135h18.wordpress.com/category/lectures/page/2/
+37. Transformer blog : https://sebastianraschka.com/blog/2023/llm-reading-list.html
 
 
 # Paper implimentation
