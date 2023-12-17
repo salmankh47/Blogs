@@ -5,6 +5,7 @@
    :red_circle: https://aman.ai/papers/ (PAPERS) <br>
    :red_circle: https://aman.ai/watch/ (Video Lectures)** <br>
    🔵 https://github.com/heejkoo/Awesome-Diffusion-Models
+   :blue_circle: https://huyenchip.com/2023/10/10/multimodal.html (multimodal)
 
 **A detailed description and coding samples for core and advanced concepts**
 1. https://d2l.ai/index.html
