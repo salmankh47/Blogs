@@ -6,7 +6,7 @@
    :red_circle: https://aman.ai/watch/ (Video Lectures)** <br>
    🔵 https://github.com/heejkoo/Awesome-Diffusion-Models <br>
    :red_circle: https://huyenchip.com/2023/10/10/multimodal.html (multimodal) <br>
-   💙 nn.labml.ai : For annotated papers and implementation
+   💙 [https://nn.labml.ai ](https://nn.labml.ai/): For annotated papers and implementation
 
 **A detailed description and coding samples for core and advanced concepts**
 1. https://d2l.ai/index.html
