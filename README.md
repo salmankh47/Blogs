@@ -191,7 +191,12 @@ site  : uvadlc.github.io <br>
 code  : uvaldc-notebooks.readthedocs.io/en/latest/index.html
 
 
-## 
+# University of Toronto
+1. https://www.cs.utoronto.ca/kr/ : Knowledge Representation Group
+2. https://www.cs.utoronto.ca/compling/people.html : NLP Group
+3. https://web.cs.toronto.edu/research/artificial-intelligence : AI Group
+4. http://www.cs.toronto.edu/~erdogdu/
+5. http://www.cs.toronto.edu/~duvenaud/
 
 
 # Statistics
