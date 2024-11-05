@@ -353,6 +353,10 @@ code  : uvaldc-notebooks.readthedocs.io/en/latest/index.html
 **AI Pursuit**<br>
     * https://www.youtube.com/channel/UCe_QLqna7cFtTCfZ0a8pycg/playlists
 
+**Hu Po**<br>
+    * https://www.youtube.com/@hu-po
+
+
 **AI Socratic circle** <br>
     * https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg
 
