@@ -122,6 +122,9 @@ https://cs228.stanford.edu/#other-resources
 ### ☑️ Speech and Language Processing ⚠️
 https://web.stanford.edu/~jurafsky/slp3/ (currently reading for NLP)
 
+# University of Geneva, Switzerland 
+### Deep Learning Course
+https://fleuret.org/dlc/
 
 # Caltech
 ### Learning from data
